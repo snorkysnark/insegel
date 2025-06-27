@@ -231,12 +231,13 @@ table tbody tr:nth-of-type(odd) code {
 }
 
 #side-menu-container {
-  width: 300px;
+  width: 400px;
   margin-right: 2em;
   position: relative;
+  overflow-x: scroll;
 }
 #side-menu-container #side-menu {
-  padding: 2em;
+  padding: 1em;
   margin-bottom: 5em;
 }
 #side-menu-container #rtd-credit {
@@ -321,7 +322,7 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 }
 
 #search {
-  padding: 2em;
+  padding: 1em;
 }
 #search input[type=text] {
   width: 100%;
@@ -378,7 +379,7 @@ header {
 }
 header #logo-container {
   width: 300px;
-  padding-left: 2em;
+  padding-left: 1em;
   display: flex;
   align-items: center;
 }
