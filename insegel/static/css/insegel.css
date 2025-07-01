@@ -231,7 +231,7 @@ table tbody tr:nth-of-type(odd) code {
 }
 
 #side-menu-container {
-  width: 400px;
+  width: 300px;
   margin-right: 2em;
   position: relative;
   overflow-x: scroll;
